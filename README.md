@@ -82,7 +82,7 @@ Academic portal for centralized student-faculty communication.
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution
 ![snake gif](https://github.com/sooryanathg/sooryanathg/blob/output/github-contribution-grid-snake.svg)
 
 ---
