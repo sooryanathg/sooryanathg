@@ -1,5 +1,3 @@
-<!-- Flashy Dynamic GitHub Profile for Sooryanath G -->
-
 <h1 align="center">👋 Hey there! I'm <span style="color:#ff006e;">Sooryanath G</span></h1>
 
 <p align="center">
