@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"   # runs every 24 hours
   workflow_dispatch:       # allows manual run from Actions tab
 
+permissions:
+  contents: write  # This allows pushing to the repository
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
