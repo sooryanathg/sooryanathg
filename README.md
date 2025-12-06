@@ -9,7 +9,7 @@
 ---
 
 ### 🔥 Feats
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F72C7D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+PHP+%2B+MySQL;Building+Offline+EHR+Apps;Learning+AI+and+Web3;Lifelong+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F72C7D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+PHP+%2B+MySQL;Learning+AI+and+Web3;Lifelong+Tech+Explorer)](https://git.io/typing-svg)
 
 ---
 
