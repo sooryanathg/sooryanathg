@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sooryanathg&label=Profile+views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sooryanath+G;Full-Stack+Developer;SDE+I+%7C+LinktoDM;Open+to+opportunities" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/sooryanathg">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -60,7 +62,7 @@ Everything I build is built with actual users and production constraints in mind
 ---
 
 ## Projects
- 
+
 <p align="center">
   <a href="https://github.com/sooryanathg/rssi-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sooryanathg&repo=rssi-dashboard&theme=radical&hide_border=true" />
@@ -74,9 +76,12 @@ Everything I build is built with actual users and production constraints in mind
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sooryanathg&repo=Crypto&theme=radical&hide_border=true" />
   </a>
 </p>
+
 ---
 
 ## GitHub stats
+
+> Production work lives at [@sooryanath-ltdm](https://github.com/sooryanath-ltdm) under a private org — personal projects and experiments live here.
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sooryanathg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -88,9 +93,14 @@ Everything I build is built with actual users and production constraints in mind
 </p>
 
 ---
-## Contribution Graph
 
-![snake gif](https://github.com/sooryanathg/sooryanathg/blob/output/github-contribution-grid-snake.svg)
+## Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooryanathg/sooryanathg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sooryanathg/sooryanathg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sooryanathg/sooryanathg/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
