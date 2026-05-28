@@ -84,8 +84,8 @@ Everything I build is built with actual users and production constraints in mind
 > Production work lives at [@sooryanath-ltdm](https://github.com/sooryanath-ltdm) under a private org — personal projects and experiments live here.
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sooryanathg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooryanathg&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://readme-stats-taupe-pi.vercel.app/api?username=sooryanathg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://readme-stats-taupe-pi.vercel.app/api/top-langs/?username=sooryanathg&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
