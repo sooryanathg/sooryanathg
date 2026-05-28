@@ -65,15 +65,15 @@ Everything I build is built with actual users and production constraints in mind
 
 <p align="center">
   <a href="https://github.com/sooryanathg/rssi-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sooryanathg&repo=rssi-dashboard&theme=radical&hide_border=true" />
+    <img src="https://readme-stats-taupe-pi.vercel.app/api/pin/?username=sooryanathg&repo=rssi-dashboard&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/sooryanathg/EHR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sooryanathg&repo=EHR&theme=radical&hide_border=true" />
+    <img src="https://readme-stats-taupe-pi.vercel.app/api/pin/?username=sooryanathg&repo=EHR&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/sooryanathg/Crypto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sooryanathg&repo=Crypto&theme=radical&hide_border=true" />
+    <img src="https://readme-stats-taupe-pi.vercel.app/api/pin/?username=sooryanathg&repo=Crypto&theme=radical&hide_border=true" />
   </a>
 </p>
 
